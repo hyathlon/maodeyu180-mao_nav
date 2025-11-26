@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1764131723281",
+          "name": "NAS界面",
+          "url": "http://ykyy.wdpan.top:8000",
+          "description": "",
+          "icon": ""
         }
       ]
     },
