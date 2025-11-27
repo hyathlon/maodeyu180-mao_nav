@@ -7,6 +7,20 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1764215137796",
+          "name": "搜索导航",
+          "url": "https://www.2345.com/?k26553850",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.2345.com"
+        },
+        {
+          "id": "site-1764131723281",
+          "name": "NAS界面",
+          "url": "http://ykyy.wdpan.top:8000",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
@@ -40,13 +54,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1764131723281",
-          "name": "NAS界面",
-          "url": "http://ykyy.wdpan.top:8000",
-          "description": "",
-          "icon": ""
         }
       ]
     },
